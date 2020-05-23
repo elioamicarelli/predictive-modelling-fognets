@@ -1,6 +1,6 @@
 # predictive-modelling-fognets
 
-This repo contains some of the functions I have written during the Data Science competition ["From Fog Nets to Neural Nets"](https://www.drivendata.org/competitions/9/) hosted by Dar Si Hmad on drivendata.org. The competition received 1244 entries from from 128 participants. I ended up in 13th position.
+This repo contains some of the functions I have written during the Data Science competition ["From Fog Nets to Neural Nets"](https://www.drivendata.org/competitions/9/) hosted by Dar Si Hmad on drivendata.org. The competition received 1244 entries from from 128 participants. I ended up in 13th position mainly relying on gradient boosting machines expecially in the first phase of this competition.
 
 An important aspect of this competition was the sequential structure of the train/test split (see figure below).
 
